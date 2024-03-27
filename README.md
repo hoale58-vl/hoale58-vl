@@ -1,31 +1,88 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<h1 align="center">Hi 👋, I'm Violet</h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hoale58-vl)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hoale58/) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/HoaLe_58) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:lvhoa58@gmail.com) 
+![Visits Badge](https://badges.pufler.dev/visits/hoale58-vl/hoale58-vl?style=for-the-badge)
 
+- 🌱 I’m currently Lead Developer at [NexmLab](https://nexm.io/)
+
+- 💬 Ask me about **Blockchain, BitCoin, EVM, Solana, Aptos, SUI, Rust, Golang, AWS, React and NodeJS**
+
+<br>
+<h1 align="left">Languages and Tools:</h3>
+
+
+**Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,golang,nodejs,express,nestjs,django,flask,fastapi,laravel,actix,spring,wordpress,dotnet,php" />
+  </a>
 </p>
-<div size='20px'> Hi! My name is Hoa Le. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+**Frontend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,ts,bootstrap,unity,html,css,jquery,gatsby,redux,tailwind" />
+  </a>
+</p>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+**Mobile**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,java,dart" />
+  </a>
+</p>
 
+**Blockchain**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidity,rust,c" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on Software Engineering [@Tokoin](https://tokoin.io/)  and Blockchain Core Engineering [@Fewchawallet](https://fewcha.app/) 
+**Database**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,graphql,sqlite,firebase,cassandra,ipfs,elasticsearch,redis" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning about graphic design and business management.
+**DevOPS**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,cloudflare,grafana,kafka,nginx" />
+  </a>
+</p>
 
-- 💬 Talk to me about I'm a peaceful person who falls in love with blockchain technology. I always believe open source is the best way to make the application better. That's why all my projects I made are available on Github. 
+**Automation Test**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cypress,jenkins,selenium" />
+  </a>
+</p>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+**Embedded**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,lua" />
+  </a>
+</p>
+ 
+**Machine Learning**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  </a>
+</p>
 
-<a  href="https://github.com/hoale58-vl?tab=repositories&q=&type=&language=python&sort=">  <img  width ='32px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>  </a><a  href="https://github.com/hoale58-vl?tab=repositories&q=&type=&language=go&sort=">  <img  width ='32px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'>  </a><a  href="https://github.com/hoale58-vl?tab=repositories&q=&type=&language=nodejs&sort=">  <img  width ='32px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>  </a><a  href="https://github.com/hoale58-vl?tab=repositories&q=&type=&language=java&sort=">  <img  width ='32px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>  </a><a  href="https://github.com/hoale58-vl?tab=repositories&q=&type=&language=dart&sort=">  <img  width ='32px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'>  </a><a  href="https://github.com/hoale58-vl?tab=repositories&q=&type=&language=rust&sort=">  <img  width ='32px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg'>  </a><a  href="https://github.com/hoale58-vl?tab=repositories&q=&type=&language=c&sort=">  <img  width ='32px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>  </a><a  href="https://github.com/hoale58-vl?tab=repositories&q=&type=&language=c&sort=">  <img  width ='32px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg'>  </a><a  href="https://github.com/hoale58-vl?tab=repositories&q=&type=&language=c%2B%2B&sort=">  <img  width ='32px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'>  </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a  href = 'https://www.linkedin.com/in/hoale58'>  <img  width = '32px'  align= 'center'  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a><a  href = 'https://www.github.com/hoale58-vl'>  <img  width = '32px'  align= 'center'  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+**Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,figma,vscode,postman,androidstudio,bitbucket,matlab,notion,unity" />
+  </a>
+</p>
+<br/>
 
 
 <h2> Stuff I work on this year <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
