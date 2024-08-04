@@ -5,7 +5,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hoale58/) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/HoaLe_58) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:lvhoa58@gmail.com) 
 ![Visits Badge](https://badges.pufler.dev/visits/hoale58-vl/hoale58-vl?style=for-the-badge)
 
-- 🌱 I’m currently Lead Developer at [NexmLab](https://nexm.io/)
 
 - 💬 Ask me about **Blockchain, BitCoin, EVM, Solana, Aptos, SUI, Rust, Golang, AWS, React and NodeJS**
 
